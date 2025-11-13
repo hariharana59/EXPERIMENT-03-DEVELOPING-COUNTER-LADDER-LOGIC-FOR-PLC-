@@ -3,7 +3,6 @@
 ## REGISTER NUMBER: 212223110013
 ## DEPARTMENT: CSE(IoT)
 ## YEAR: 3RD
-
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -68,15 +67,17 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 
 ### Simulation Screenshots:
 
-<img width="1833" height="969" alt="Screenshot 2025-10-09 094440" src="https://github.com/user-attachments/assets/3538e9c3-0cc3-4634-b441-1844feda73bd" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/a2be121b-0475-4820-97e0-ae1d2e50ef26" />
 
-<img width="1812" height="961" alt="Screenshot 2025-10-09 094455" src="https://github.com/user-attachments/assets/5ec2414d-60bb-42c7-a664-840671ee00af" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/185f90f2-92d0-4188-a80d-84ff43c1142f" />
 
-<img width="1823" height="963" alt="Screenshot 2025-10-09 094510" src="https://github.com/user-attachments/assets/20058778-b3e7-412e-a1b4-f512e158f31f" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d159b62d-81bc-4b14-a6ca-383f89196e50" />
 
-<img width="1824" height="969" alt="Screenshot 2025-10-09 094530" src="https://github.com/user-attachments/assets/98ab01f3-bceb-4007-9c68-18d9ff79b8d4" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b5dc4ab5-2b6b-4586-afc9-dd2e14a98caa" />
 
-<img width="1814" height="967" alt="Screenshot 2025-10-09 094542" src="https://github.com/user-attachments/assets/ea1d17ce-b555-4bd2-8dce-d31d3029c547" />
+<img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/f018bc60-e322-4b2b-abe1-086209d6a7ee" />
+
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
+
